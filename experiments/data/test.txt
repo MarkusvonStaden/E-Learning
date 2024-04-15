@@ -1,0 +1,235 @@
+Sehr geehrte Kollegin, sehr geehrter Kollege,
+die rasante Verbreitung generativer künstlicher Intelligenz („generative KI“) fordert uns als
+Lehrende und Prüfende heraus. Die nachfolgende Darstellung soll Ihnen deshalb eine erste
+Hilfestellung zum Thema generative KI in den Bereichen Lehre und Prüfung bieten. Während
+im Bereich der Lehre (dazu unter II.) große Freiheit herrscht, ist der Bereich der Prüfung (dazu
+III.) stärker verrechtlicht. Die vorliegende Darstellung ist in Zusammenarbeit von Rektorat und
+Studentischer Abteilung entstanden. Der zentrale Prüfungsausschuss hatte Möglichkeit zur
+Stellungnahme; seine Rückmeldungen haben wir weitgehend berücksichtigt.
+Angesichts der ständigen Weiterentwicklung der Angebote generativer KI kann diese
+Darstellung nur eine Momentaufnahme sein. Ihr Stand ist der 1. April 2024.
+I. Grundsätzliches
+Als praxisnahe Hochschule für Technik und Wirtschaft stehen wir neuen technischen
+Entwicklungen offen gegenüber. Die generative KI bietet große Chancen, die es zu nutzen gilt.
+Wie sich bereits jetzt abzeichnet, wird generative KI zukünftig in der Arbeitswelt eine
+bedeutende Rolle spielen, worauf es die Studierenden vorzubereiten gilt.
+Spricht damit vieles für den breiten Einsatz generativer KI an der Hochschule – wir schaffen z.
+B. die entsprechende Infrastruktur –
+, macht diese technische Errungenschaft klassische
+Ausbildungsmethoden gleichwohl nicht obsolet. Ebenso wenig wie die Erfindung der Maschine
+die Vorteile von Muskeltraining in Frage stellte, wird die generative KI es überflüssig machen,
+Denken und Gedächtnis beispielsweise durch eigenständige Rechenübungen oder
+Faktenlernen zu trainieren. Gerade auch die Beurteilung der von generativer KI
+hervorgebrachten Ergebnisse setzt menschliches Wissen und Können jenseits generativer KI
+voraus.
+Die Hochschule stellt allen ihren Mitgliedern über die Plattform Canvas einen kostenlosen
+Basiszugang zur generativen KI zur Verfügung und zwar auf der Grundlage von GPT4. Dieser
+Handreichung KI, Vers. 1.0, Stand 1.4.2024
+2
+Basiszugang entspricht möglicherweise nicht allen Anforderungen der Forschung oder
+speziellen Informatikausbildung, erlaubt es aber jedem Hochschulmitglied, generative KI
+spielerisch auszuprobieren, Berührungsängste abzubauen und erste Erfahrungen zu
+sammeln. Der Zugang ist für alle Hochschulmitglieder kostenfrei.
+Für Sie als Lehrpersonal bestehen darüber hinaus zahlreiche KI-bezogene
+Fortbildungsangebote, insbesondere über unseren Kooperationspartner GHD – bitte
+verschaffen Sie sich einen Überblick unter GHD – Geschäftsstelle der Studienkommission für
+Hochschuldidaktik B.-W.GHD – Geschäftsstelle der Studienkommission für
+Hochschuldidaktik-B.W. und nutzen Sie die KI-bezogenen Angebote für die persönliche
+Fortbildung.
+II. Einsatz von generativer KI in der Lehre
+Unsere Verfassung bestimmt in Art. 5 Abs. 3 Satz 1 Grundgesetz, dass Kunst und
+Wissenschaft, Forschung und Lehre frei sind. Darauf nimmt das baden-württembergische
+Hochschulrecht Bezug, wenn es feststellt: „Die Freiheit der Lehre umfasst im Rahmen der zu
+erfüllenden Lehraufgaben insbesondere die Abhaltung von Lehrveranstaltungen und deren
+inhaltliche und methodische Gestaltung …“ (§ 3 Abs. 3 Landeshochschulgesetz – LHG).
+Aus der inhaltlich-methodischen Gestaltungsfreiheit folgt, dass es in Ihrer Verantwortung als
+Lehrende liegt, ob, in welcher Weise und in welchem Umfang Sie generative KI in Ihre Lehre
+einführen und einbeziehen.
+Die nachfolgenden Punkte sollten Sie bei der Ausgestaltung Ihrer Lehrinhalte in jedem Fall
+berücksichtigen:
+• Bei Studierenden sollte das Bewusstsein für die Chancen, aber auch die Grenzen
+generativer KI geweckt werden; die Lehre sollte sich deshalb – unter Berücksichtigung
+der Eigenheiten des jeweiligen Fachbereichs – mit folgenden Fragen
+auseinandersetzen: Wo und wie kann generative KI sinnvoll unterstützen, wo liegen
+ihre Beschränkungen, welche typischen Fehler gibt es und wie kann man diese Fehler
+erkennen und vermeiden oder zumindest verringern (z. B. durch bestimmte Techniken
+der Aufforderung, sog. „prompt engineering“).
+• Beim Einsatz generativer KI zur Erstellung von Lehrmaterialien ist stets zu
+berücksichtigen, dass generative KI zuweilen Inhalte frei erfindet (z. B. frei geschöpfte
+Fakten oder erfundene Literaturnachweise; sog. Halluzinationen) oder in anderer
+Weise fehlerhaft sein kann. Deshalb ist es unverzichtbar, dass die KI-generierten
+Inhalte nicht ohne Überprüfung in die Lehre übernommen, sondern durch Sie als
+verantwortliche Lehrende auf Korrektheit, Relevanz und methodische Sinnhaftigkeit
+überprüft werden.
+Handreichung KI, Vers. 1.0, Stand 1.4.2024
+3
+• Die Qualität der durch generative KI erstellten Antworten hängt von den
+Trainingsdatensätzen der generativen KI ab. Dies kann dazu führen, dass KI-
+Softwareprodukte bestimmte Vorurteile oder Einseitigkeiten widerspiegeln. Besondere
+Vorsicht und kritische Überprüfung ist deshalb geboten, wenn generative KI im Bereich
+von Werturteilen zum Einsatz kommt.
+• Darüber hinaus sollten Sie Datenschutz- und Datensicherheit im Blick behalten. Da
+generative KI-Programme in datenschutzrechtlicher Terminologie die von Ihnen
+eingegebenen Daten „verarbeiten“, dürfen Anfragen weder schutzwürdige
+personenbezogene Daten enthalten noch Dienstgeheimnisse. Das spezielle Angebot
+der Hochschule über Canvas ist datenschutzkonform konzipiert, insbesondere ist
+durch die Zwischenschaltung von Canvas der Eingebende für das System nicht
+erkennbar. Allerdings handelt es sich auch beim speziellen Angebot der Hochschule
+um Verarbeitung von Daten.
+• Zu beachten ist schließlich, dass keine Urheberrechte verletzt werden. Nach
+derzeitiger Rechtslage stellt zwar die Neugenerierung von Texten durch generative KI
+an sich keine Urheberrechtsverletzung dar, da es sich um eine Neuschöpfung handelt.
+Anders kann es sich aber verhalten, wenn der neue KI-generierte Text einem
+bestehenden Text wortlautgleich entspricht oder sehr ähnlich ist. Diese
+urheberrechtlich kritische Nähe zu Texten anderer Autorinnen und Autoren tritt
+insbesondere dann auf, wenn – z. B. in einem Nischenthema – nur sehr wenig
+Trainingsmaterial zur Verfügung steht.1
+III. Einsatz von generativer KI bei Prüfungen
+Während in der Lehre große Freiräume des Einsatzes generativer KI bestehen, sind im
+Bereich der Prüfung engere Grenzen gezogen. Jede Hochschulprüfung muss den Grundsatz
+der Chancengleichheit wahren; Bewertung und persönliche Leistung des Prüflings müssen
+korrelieren. Kein Prüfling darf sich einen unlauteren Vorteil verschaffen.
+Prüfungsrechtlich ist daraus abzuleiten, dass der Prüfling die Prüfungsleistung selbstständig
+und nur unter Einsatz zugelassener Hilfsmittel erbringen darf. Dieser allgemeine Grundsatz
+des Prüfungsrechts findet sich auch im Landeshochschulgesetz in Verbindung mit den
+Studien- und Prüfungsordnungen2 der Hochschule.
+1 Hoeren, Th., Rechtsgutachten zum Umgang mit KI-Software im Hochschulkontext, März 2023,
+S. 25 f.
+2 § 32 Abs. 4 Nr. 3 LHG iVm §§ 23 Abs.1, 34 Abs. 1 und 2, 50 Abs. 1 Allgemeiner Teil der Studien-
+und Prüfungsordnung für Bachelor-Studiengänge der Hochschule Aalen (BA-TA-18-1) (SPO AT); die
+Vorschriften der SPO AT stehen exemplarisch für alle Studiengänge, da sich in den übrigen Studien-
+und Prüfungsordnungen selbige Regelungen finden.
+Handreichung KI, Vers. 1.0, Stand 1.4.2024
+4
+Im Einzelnen ist zwischen verschiedenen Prüfungsformen zu differenzieren:
+1. Leistungsnachweise unter Aufsicht, insbesondere Klausuren
+Bei an der Hochschule unter Aufsicht durchgeführten Leistungsnachweisen, insbesondere
+Modulprüfungen in Form schriftlicher Klausuren, darf der Prüfling im Ausgangspunkt keine
+Hilfsmittel einsetzen3
+. Es gilt der Grundsatz: Alles ist verboten, was nicht ausdrücklich erlaubt
+ist. Nach den Modulbeschreibungen sind derzeit oftmals Hilfsmittel ausdrücklich erlaubt, z. B.
+Formelsammlungen, Gesetzestexte oder Taschenrechner. Der Einsatz von nicht erlaubten
+Hilfsmitteln führt – ohne dass es auf seinen Umfang ankäme – zum Vorliegen einer
+Täuschung. Täuschung wiederum führt jedenfalls zum Nichtbestehen der jeweiligen Prüfung,
+gegebenenfalls auch zu strengeren Sanktionen wie der Exmatrikulation.
+Daraus folgt für den Einsatz generativer KI durch Prüflinge in beaufsichtigten
+Prüfungsleistungen: Ohne ausdrückliche Gestattung darf der Prüfling keinerlei generative
+KI verwenden. Ein Verstoß gegen dieses Gebot führt automatisch zum Nichtbestehen wegen
+Täuschung. Möchte die Prüferin oder der Prüfer generative KI bewusst in einer Prüfung unter
+Aufsicht einsetzen, muss die generative KI ausdrücklich als Hilfsmittel zugelassen werden;
+dies geschieht regelmäßig mittels Festlegung in der Modulbeschreibung. Die Zulassung des
+Hilfsmittels ist dabei möglichst präzise zu definieren (z. B. unbeschränkt, zu gewissen Fragen
+etc.). Wenn generative KI als Hilfsmittel zugelassen wird, muss ein chancengleicher
+technischer Zugang aller Prüflinge sichergestellt sein. In jedem Fall muss der Prüfer oder die
+Prüferin sicherstellen, dass eine sachgerechte Differenzierung des Leistungsniveaus der
+Prüflinge weiterhin möglich ist.
+2. Leistungsnachweise ohne Aufsicht, insbesondere Abschlussarbeiten
+Anders als bei Leistungsnachweisen, die unter Aufsicht an der Hochschule erbracht werden,
+sind bei unbeaufsichtigten Leistungsnachweisen, z. B. Seminararbeiten und insbesondere
+Abschlussarbeiten, Hilfsmittel nicht grundsätzlich verboten. Ihr Einsatz muss nur
+gekennzeichnet und ein Kern an eigener bewertbarer Leistung des Prüflings vorhanden sein.
+Selbstständigkeit der Leistung
+Der Schwerpunkt der prüfungsrechtlichen Beurteilung liegt in diesen Fällen auf der
+Selbstständigkeit der erbrachten Leistung. Leistungen Dritter – seien es Leistungen, die
+durch andere Personen oder generative KI erstellt werden – können nicht Gegenstand der
+Bewertung sein. Insoweit fordert z. B. § 50 Abs. 1 Satz 2 SPO AT bezüglich der
+Abschlussarbeit: Sie „soll zeigen, dass innerhalb einer vorgegebenen Frist ein Problem aus
+3 § 23 Abs. 1 Satz 1 SPO AT.
+Handreichung KI, Vers. 1.0, Stand 1.4.2024
+5
+einem Fachgebiet des gewählten Studiengangs selbstständig nach wissenschaftlichen
+Methoden bearbeitet werden kann“.
+Setzt der Prüfling bei der Erstellung der häuslichen Arbeit, insbesondere der Abschlussarbeit,
+generative KI ein, stellt sich deshalb in der Regel (zu Ausnahmen bei besonderen
+Fragestellungen der Arbeit sogleich unten) die Frage der ausreichenden Selbstständigkeit
+seiner Leistung.
+Dabei handelt es sich um eine graduell zu beantwortende Frage. Stellt z. B. ein einziger KI-
+generierter Satz im Einleitungskapitel einer 100 Seiten umfassenden Arbeit deren
+Selbstständigkeit offenkundig nicht in Frage, so muss die Selbstständigkeit sicherlich verneint
+werden, wenn der Text der Abschlussarbeit vollständig durch KI generiert wurde.
+Bislang liegt weder eine gesetzliche Regelung noch eine gefestigte Rechtsprechung4 vor, ab
+welchem Grad (quantitativ oder qualitativ) KI-Einsatz die Selbstständigkeit einer
+Prüfungsleistung in Frage stellt. Allerdings lassen sich die Leitlinien der Rechtsprechung zur
+Übernahme fremder Texte in Abschlussarbeiten sinngemäß anwenden. Bei Anlegung dieser
+Maßstäbe der Rechtsprechung auf KI-generierte Textteile in einer Abschlussarbeit gilt dann
+Folgendes: Entscheidend ist Anzahl der von generativer KI erstellen Passagen, ihr
+quantitativer Anteil an der Arbeit sowie ihr qualitatives Gewicht, d. h. ihre Bedeutung für die
+wissenschaftliche Aussagekraft der Arbeit. Keine Selbstständigkeit liegt jedenfalls dann mehr
+vor, wenn die übernommenen KI-Texte die Arbeit quantitativ, qualitativ oder in einer
+Gesamtschau beider Möglichkeiten prägen. Eine quantitative Prägung ist zu bejahen, wenn
+die Anzahl der KI generierten Stellen und deren Anteil an der Arbeit angesichts des
+Gesamtumfangs überhandnehmen. Derartige Passagen prägen die Arbeit qualitativ, wenn bei
+Hinwegdenken der KI-generierten Textpassagen die restliche Arbeit den inhaltlichen
+Anforderungen an eine wissenschaftliche Leistung nicht genügt.5
+Im Übrigen gilt: Selbst wenn generative KI ausdrücklich als Hilfsmittel zugelassen oder ihr
+Einsatz sogar gefordert wird, muss gleichwohl eine eigenständige Kernleistung vorliegen (da
+ansonsten nur eine „Abschreibleistung“6 vorliegt). Eine Leistung, die sich lediglich auf die
+Formulierung von „prompts“ beschränkt, dürfte insoweit nicht genügen.
+Die fehlende Eigenständigkeit stellt einen Unterfall der Täuschung dar, die gemäß § 34 Abs. 1
+Satz 1 AT zum Nichtbestehen des Leistungsnachweises führt. Außerdem kann zugleich ein
+4 Die einzige zu Redaktionsbeschluss bekannte Entscheidung ist VG München, Beschluss v.
+28.11.2023 – M 3 E 23.4371.
+5 So sinngemäß bezügl. Plagiat in einer Dissertation BVerwG, Urteil vom 21. Juni 2017 – 6 C 3/16 –
+,
+BVerwGE 159, 148-171, Rn. 44; dieser Rechtsprechung folgt der Verwaltungsgerichthof Baden-
+Württemberg, vgl. VGH Mannheim, Urteil vom 7. Juli 2020 – 9 S 2809/19 –, Rn. 25.
+6 Fischer/Jeremias/Dieterich, Prüfungsrecht, 8. Aufl. 2022, Rn. 231.
+Handreichung KI, Vers. 1.0, Stand 1.4.2024
+6
+Verstoß gegen die Regeln des guten wissenschaftlichen Arbeitens vorliegen (§ 3 Abs. 5 LHG),
+der nicht nur zum Nichtbestehen, sondern in schweren Fällen weitergehend zur
+Exmatrikulation führen kann (§ 34 Abs. 2 SPO AT).
+Zitation KI-generierter Textpassagen
+Auch wenn der nicht prägende Einsatz von durch generative KI erstellten Textpassagen die
+Eigenständigkeit der Leistung nicht in Frage stellt, müssen Zitierregeln beachten werden.
+Insoweit müssen die von KI-generierten Passagen kenntlich gemacht werden („Zitation“),
+insbesondere in geeigneten Verzeichnissen. Die genaue Art und Weise der Zitierung von KI-
+generierten Textpassagen sollte der jeweiligen Fachkultur entsprechen und durch die jeweils
+zuständigen Prüfungsausschüsse oder jedenfalls den Erstbetreuer der Arbeit vorgegeben
+werden. Dabei kann auf Zitierregeln geeigneter Fachgesellschaften zurückgegriffen werden
+(z. B. American Psychological Association, How to cite ChatGPT (apa.org)). Wie auch sonst
+bei der Zitation verzichtet die Hochschulleitung bzw. der zentrale Prüfungsausschuss auf
+einheitliche Vorgaben. Das Zitieren der KI-Quelle muss jedenfalls erkennen lassen, mit
+welcher Eingabe („prompt“) und durch die Verwendung welcher Software in welcher Version
+(z. B. GPT4 am 1.3.2024) der Text erzeugt wurde.
+Die fehlende oder falsche Zitierung stellt einen Verstoß gegen die Regeln des guten
+wissenschaftlichen Arbeitens dar (§ 3 Abs. 5 LHG) und kann zum Nichtbestehen der Arbeit
+führen. In besonders schwerwiegenden Fällen droht die Exmatrikulation (§ 34 Abs. 2 SPO AT).
+Schriftliche Versicherung
+Gemäß SPO AT ist bei der Abgabe einer Abschlussarbeit schriftlich zu versichern, dass die
+Arbeit selbstständig verfasst und keine anderen als die angegebenen Quellen und Hilfsmittel
+benutzt wurden.7 Es wird empfohlen, den Text dieser Versicherung ab sofort danach zu
+differenzieren, ob der Einsatz generativer KI nicht erwünscht, gestattet oder sogar erforderlich
+ist. Ein entsprechendes Formular stellt die studentische Abteilung zur Verfügung; das Muster
+ist dieser Handreichung als Anlage beigefügt.
+Absprache mit Prüfling
+Gerade im Zusammenhang mit der Auswahl der passenden schriftlichen Versicherung bietet
+es sich für die Erstbetreuerin oder den Erstbetreuer an, bereits bei Ausgabe der Arbeit den
+Einsatz von generativer KI einschließlich der geltenden Grenzen mit dem Prüfling zu
+besprechen und die entsprechenden konkreten Vorgaben für den Prüfling zu dokumentieren.
+7 § 52 Abs. 2 SPO AT.
+Handreichung KI, Vers. 1.0, Stand 1.4.2024
+7
+Mündliche Leistungen stärker berücksichtigen
+Unabhängig von den vorgenannten prüfungsrechtlichen Überlegungen empfiehlt es sich, auf
+die den Prüflingen mittlerweile zur Verfügung stehenden KI-Einsatzmöglichkeiten in der Weise
+zu reagieren, dass Prüfungsformen, die nicht oder nur schwer durch KI-Einsatz beeinflusst
+werden können, deutlich breiterer Raum eingeräumt wird. So bietet es sich bei schriftlichen
+Arbeiten an, diese um eine mündliche Prüfung zu ergänzen oder – z. B. im Fall von
+Seminararbeiten – sogar zu ersetzen. Generell kann man davon ausgehen, dass kreative,
+kompetenzorientierte und kommunikative Prüfungsformen von den neuen Möglichkeiten, die
+sich durch generative KI eröffnen, weniger betroffen sind. Die mündliche Prüfung sollte
+deshalb deutlich stärker zum Einsatz kommen.
+IV. Fazit und Ausblick
+Aus hochschulrechtlicher Perspektive reichen die derzeit bestehenden Regelungen – ergänzt
+durch diese Handreichung und neue Formulare – aus, Missbrauchspotenziale zu beschränken
+und gleichzeitig den Einsatz generativer KI – dort wo er sinnvoll ist – zu ermöglichen.
+Insbesondere eröffnen die maßgeblichen Rechtsbegriffe („Selbstständigkeit“ und „Hilfsmittel“)
+eine ausreichende Reaktion auf die aktuelle technische Entwicklung. Dementsprechend plant
+derzeit weder der Landesgesetzgeber noch die Hochschule, Rechtstexte zu ändern.
+Bei generativer KI handelt es sich allerdings um ein Feld mit hoher Dynamik. Die
+Hochschulorgane und -gremien werden deshalb die Entwicklung weiter aufmerksam verfolgen
+und, falls später erforderlich, auch normative Maßnahmen ergreifen.
+Vielen Dank, dass Sie unsere Studierenden gut auf die Zukunft vorbereiten!
+Andreas Ladurner Britta Seitz
+Prorektor für Lehre Leiterin der Studentischen Abteilung
