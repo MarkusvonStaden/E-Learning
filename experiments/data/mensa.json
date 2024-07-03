@@ -1,0 +1,108 @@
+{
+    "monday": {
+        "Topf und Pfanne": {
+            "name": "Farfalle-Spinat-Pfanne mit Kirschtomaten in Käsesahne",
+            "price": "3,90€"
+        },
+        "Prima Klima": {
+            "name": "Schwäbische Gemüse-Maultaschen mit Emmentaler überbacken",
+            "price": "4,00€"
+        },
+        "Fleisch und Fisch": {
+            "name": "Wiener Backhendl mit Remouladensoße, Kartoffel-Gurkensalat",
+            "price": "4,85€"
+        },
+        "Sattmacher": {
+            "name": "Nudeln mit Champignonrahmsoße",
+            "price": "2,20€"
+        },
+        "Pizza": {
+            "name": "Pizza Tonno",
+            "price": "4,80€"
+        }
+    },
+    "tuesday": {
+        "Topf und Pfanne": {
+            "name": "Spinat-Käsespätzle mit geschmälzten Zwiebeln",
+            "price": "4,05€"
+        },
+        "Prima Klima": {
+            "name": "Frühlingsrolle Gärtnerin dazu asiatische Bratnudeln mit Erbsenschoten und Bambus, süß-scharfe Thai-Soße",
+            "price": "4,10€"
+        },
+        "Fleisch und Fisch": {
+            "name": "Spaghetti Bologneser Art vom Rind mit Reibekäse",
+            "price": "4,25€"
+        },
+        "Sattmacher": {
+            "name": "Gemüsereis mit Kräutersoße",
+            "price": "2,05€"
+        },
+        "Pizza": {
+            "name": "Pizza Funghi",
+            "price": "4,40€"
+        }
+    },
+    "wednesday": {
+        "Topf und Pfanne": {
+            "name": "Kartoffel-Lauch-Gratin",
+            "price": "3,80€"
+        },
+        "Prima Klima": {
+            "name": "Marokkanischer Cous-Cous-Salat mit Hummus, Pitabrot",
+            "price": "4,65€"
+        },
+        "Fleisch und Fisch": {
+            "name": "Pfannengyros mit Zwiebeln, Tomatenreis, hausgemachter Zaziki",
+            "price": "4,70€"
+        },
+        "Sattmacher": {
+            "name": "Röstzwiebel-Kartoffelpüree",
+            "price": "2,05€"
+        },
+        "Pizza": {
+            "name": "Pizza Romana",
+            "price": "4,95€"
+        }
+    },
+    "thursday": {
+        "Topf und Pfanne": {
+            "name": "Canneloni Verde mit Ricotta-Spinatfüllung und Käse überbacken",
+            "price": "4,10€"
+        },
+        "Prima Klima": {
+            "name": "Asia Bowl mit Basmatireis, frischem Gemüse und gebratenen Sojastreifen",
+            "price": "4,00€"
+        },
+        "Fleisch und Fisch": {
+            "name": "Kabeljau in Tempurateig mit Wasabi-Mayonnaise, Risoleekartoffel",
+            "price": "5,10€"
+        },
+        "Sattmacher": {
+            "name": "Knöpfle mit Rahmsoße",
+            "price": "2,05€"
+        },
+        "Pizza": {
+            "name": "Pizza Quattro Formaggi mit Lauchzwiebeln",
+            "price": "4,95€"
+        }
+    },
+    "friday": {
+        "Topf und Pfanne": {
+            "name": "Tortilla mit Gemüse und Sojastreifen gefüllt, dazu ein Knoblauch-Quark-Dip",
+            "price": "3,60€"
+        },
+        "Prima Klima": {
+            "name": "Gemüse-Knusperschnitte mit Schmorzwiebelsoße, mediterranem Bulgur-Gemüse",
+            "price": "4,45€"
+        },
+        "Fleisch und Fisch": {
+            "name": "Schweineschnitzel gebacken mit Bratensoße, Bratkartoffel",
+            "price": "4,80€"
+        },
+        "Sattmacher": {
+            "name": "Nudeln mit Tomatensoße",
+            "price": "2,20€"
+        }
+    }
+}
