@@ -32,7 +32,9 @@ vector_store = Chroma(embedding_function=embedding_function, persist_directory='
 
 def ask(query):
     results = vector_store.similarity_search_with_relevance_scores(query, 5)
-    chat_model = ChatOpenAI()
+    chat_model = ChatOpenAI(
+        model = "gpt-4o"
+    )
     if len(results) == 0 or results[0][1] < 0.7:
         response = chat_model.predict(query)
     else:
@@ -46,8 +48,8 @@ def ask(query):
 
 manager = ConnectionManager()
 
-@router.websocket("/ws/{client_id}")
-async def websocket_endpoint(websocket: WebSocket, client_id: int):
+@router.websocket("/ws/")
+async def websocket_endpoint(websocket: WebSocket):
     await manager.connect(websocket)
     try:
         while True:

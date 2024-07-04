@@ -9,12 +9,25 @@ ENV PYTHONDONTWRITEBYTECODE=1
 # Turns off buffering for easier container logging
 ENV PYTHONUNBUFFERED=1
 
+# Include .env file#
+
+
+RUN apt-get update && apt-get install -y \
+    build-essential \
+    cmake \
+    libpython3-dev \
+    && rm -rf /var/lib/apt/lists/*
+
+RUN pip install --upgrade pip
+
 # Install pip requirements
 COPY requirements.txt .
-RUN python -m pip install -r requirements.txt
+RUN python -m pip install -r requirements.txt --default-timeout=1000
+
+RUN pip install gunicorn
 
 WORKDIR /app
-COPY /src /app
+COPY /src /app/src
 
 # Creates a non-root user with an explicit UID and adds permission to access the /app folder
 # For more info, please refer to https://aka.ms/vscode-docker-python-configure-containers
