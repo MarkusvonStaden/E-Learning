@@ -43,21 +43,15 @@ Zur Vervollständigung der Textabschnitte wird ein Chatbot verwendet. Als Sprach
 
 ## Didaktischer Ansatz
 
-Der Lern-Bot basiert auf mehreren didaktischen Prinzipien, die darauf abzielen, den Lernprozess zu optimieren und zu individualisieren:
+Der Lern-Bot basiert auf einer Reihe didaktischer Prinzipien, die darauf abzielen, den Lernprozess zu optimieren und zu individualisieren. Im Kern steht das Konzept des adaptiven Lernens, bei dem sich der Chatbot an das Vorwissen und die Lerngeschwindigkeit jedes einzelnen Lernenden anpasst, um eine personalisierte Lernerfahrung zu ermöglichen. Dies wird ergänzt durch den Ansatz des Just-in-Time-Learnings, bei dem der Bot Unterstützung genau dann bietet, wenn sie benötigt wird, was ein effizientes und bedarfsorientiertes Lernen fördert.
 
-- Adaptives Lernen: Durch die Fähigkeit, auf individuelle Fragen einzugehen, passt sich der Chatbot an das Vorwissen und die Lerngeschwindigkeit jedes einzelnen Lernenden an. Dies ermöglicht eine personalisierte Lernerfahrung, die auf die Bedürfnisse des Einzelnen zugeschnitten ist.
+Die Interaktion mit dem Chatbot fördert zudem das aktive Lernen, indem Lernende ermutigt werden, Fragen zu stellen und sich intensiv mit dem Lernstoff auseinanderzusetzen. Dies führt zu einem tieferen Verständnis und einer besseren Retention des Gelernten. Die Fähigkeit des Bots, auf verschiedene Dokumente zuzugreifen, unterstützt dabei unterschiedliche Lernstile und ermöglicht eine multimodale Lernunterstützung.
 
-- Just-in-Time-Learning: Der Bot bietet Unterstützung genau dann, wenn sie benötigt wird. Lernende können Fragen stellen oder Erklärungen anfordern, sobald sie auf Schwierigkeiten stoßen, was ein effizientes und bedarfsorientiertes Lernen fördert.
+Ein weiterer wichtiger Aspekt ist das kontinuierliche Feedback, das der Bot geben kann. Dies hilft den Lernenden, ihr Verständnis zu überprüfen und Missverständnisse schnell zu korrigieren. Gleichzeitig kann der Bot als eine Art Gerüst dienen, das die Lernenden schrittweise zu einem tieferen Verständnis führt, indem es gezielte Informationen und Erklärungen bereitstellt.
 
-- Aktives Lernen: Durch die Interaktion mit dem Chatbot werden Lernende ermutigt, aktiv Fragen zu stellen und sich mit dem Lernstoff auseinanderzusetzen. Dies fördert ein tieferes Verständnis und eine bessere Retention des Gelernten.
+Der Lern-Bot fördert auch das selbstgesteuerte Lernen, indem er es den Lernenden ermöglicht, ihr Lernen selbst zu steuern und in ihrem eigenen Tempo voranzuschreiten. Dies stärkt die Autonomie und Motivation der Lernenden. Wichtig ist dabei zu betonen, dass der Bot als Ergänzung und nicht als Ersatz für den traditionellen Unterricht konzipiert ist. Er unterstützt das Lernen außerhalb des Klassenzimmers und hilft bei der Vor- und Nachbereitung des Unterrichts- und Vorlesungsstoffs.
 
-- Kontinuierliches Feedback: Der Bot kann sofortige Rückmeldungen geben, was den Lernenden hilft, ihr Verständnis zu überprüfen und Missverständnisse schnell zu korrigieren.
-
-- Selbstgesteuertes Lernen: Die Verfügbarkeit des Bots ermöglicht es den Lernenden, ihr Lernen selbst zu steuern und in ihrem eigenen Tempo voranzuschreiten. Dies fördert die Autonomie und Motivation der Lernenden.
-
-- Ergänzung zum traditionellen Unterricht: Der Bot ist als Ergänzung und nicht als Ersatz für den Unterricht konzipiert. Er unterstützt das Lernen außerhalb des Klassenzimmers und hilft bei der Vor- und Nachbereitung des Unterrichtsstoffs.
-
-Durch die Integration dieser didaktischen Prinzipien zielt der Lern-Bot darauf ab, eine effektive, flexible und motivierende Lernumgebung zu schaffen, die den modernen Anforderungen an individualisiertes und technologiegestütztes Lernen gerecht wird.
+Durch die Integration dieser didaktischen Prinzipien zielt der Lern-Bot darauf ab, eine effektive, flexible und motivierende Lernumgebung zu schaffen, die den modernen Anforderungen an individualisiertes und technologiegestütztes Lernen gerecht wird. Er bietet damit eine innovative Lösung, um die Lernerfahrung zu verbessern und an die Bedürfnisse der heutigen Lernenden anzupassen.
 
 ## Ausblick
 
