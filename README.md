@@ -2,6 +2,8 @@
 
 ## Zusammenfassung
 
+Ziel dieses Projektes ist es, die Lernerfahrung mithilfe eines Chatbots, welcher auf Dokumente zugreifen kann, zu verbessern. Der Chatbot soll ergänzend zu Unterricht, Vorlesungen oder Seminaren eingesetzt werden und den Lernenden bei der Vorbereitung auf Prüfungen oder bei der Vertiefung des Stoffes unterstützen. Durch die Möglichkeit, auf Dokumente zuzugreifen, kann der Chatbot auf eine Vielzahl von Informationen zurückgreifen und so eine breite Palette von Fragen beantworten. Die Adaptivität des Chatbots ermöglicht es, auf die individuellen Bedürfnisse der Lernenden einzugehen und so eine personalisierte Lernerfahrung zu schaffen.
+
 ## Virtuelle Umgebung
 
 ## Backend
@@ -41,6 +43,22 @@ Zur Vervollständigung der Textabschnitte wird ein Chatbot verwendet. Als Sprach
 
 ## Didaktischer Ansatz
 
+Der Lern-Bot basiert auf mehreren didaktischen Prinzipien, die darauf abzielen, den Lernprozess zu optimieren und zu individualisieren:
+
+- Adaptives Lernen: Durch die Fähigkeit, auf individuelle Fragen einzugehen, passt sich der Chatbot an das Vorwissen und die Lerngeschwindigkeit jedes einzelnen Lernenden an. Dies ermöglicht eine personalisierte Lernerfahrung, die auf die Bedürfnisse des Einzelnen zugeschnitten ist.
+
+- Just-in-Time-Learning: Der Bot bietet Unterstützung genau dann, wenn sie benötigt wird. Lernende können Fragen stellen oder Erklärungen anfordern, sobald sie auf Schwierigkeiten stoßen, was ein effizientes und bedarfsorientiertes Lernen fördert.
+
+- Aktives Lernen: Durch die Interaktion mit dem Chatbot werden Lernende ermutigt, aktiv Fragen zu stellen und sich mit dem Lernstoff auseinanderzusetzen. Dies fördert ein tieferes Verständnis und eine bessere Retention des Gelernten.
+
+- Kontinuierliches Feedback: Der Bot kann sofortige Rückmeldungen geben, was den Lernenden hilft, ihr Verständnis zu überprüfen und Missverständnisse schnell zu korrigieren.
+
+- Selbstgesteuertes Lernen: Die Verfügbarkeit des Bots ermöglicht es den Lernenden, ihr Lernen selbst zu steuern und in ihrem eigenen Tempo voranzuschreiten. Dies fördert die Autonomie und Motivation der Lernenden.
+
+- Ergänzung zum traditionellen Unterricht: Der Bot ist als Ergänzung und nicht als Ersatz für den Unterricht konzipiert. Er unterstützt das Lernen außerhalb des Klassenzimmers und hilft bei der Vor- und Nachbereitung des Unterrichtsstoffs.
+
+Durch die Integration dieser didaktischen Prinzipien zielt der Lern-Bot darauf ab, eine effektive, flexible und motivierende Lernumgebung zu schaffen, die den modernen Anforderungen an individualisiertes und technologiegestütztes Lernen gerecht wird.
+
 ## Ausblick
 
 Die Anwendung ist in ihrer aktuellen Form nicht mehr als ein Proof-of-Concept. Es gibt viele Möglichkeiten, die Anwendung zu erweitern und zu verbessern.
@@ -49,6 +67,8 @@ Um eine solche Anwendung in der Praxis zu verwenden, müssten noch einige Schrit
 In der aktuellen Version wurde der Aspekt der IT-Sicherheit, sowie der Datenschutz, noch nicht berücksichtigt. Um die Anwendung in der Praxis zu verwenden, müssten diese Aspekte jedoch unbedingt berücksichtigt werden.
 
 Hierfür wäre z.B. ein vollständiges Nutzermanagement notwendig, damit Nutzer nur auf die Dokumente zugreifen können, auf die sie auch zugreifen dürfen. Zudem müssten die Dokumente verschlüsselt gespeichert werden, um die Vertraulichkeit zu gewährleisten.
+
+In Zukunft wäre es auch denkbar, über die Möglichkeit des "Function Calling" des Modells weitere Funktionen zu implementieren. So könnte der Chatbot z.B. auch Multiple-Choice-Fragen beantworten oder Lückentexte vervollständigen. Wenn man dieses Konzept noch weiter denkt, können so auch Schnittstellen zu traditionellen Lernplattformen und Lernprogrammen geschaffen werden. So kann das Programm zum Beispiel anhand des Skriptes die Themen erkennen, die der Benutzer noch nicht verstanden hat und mithilfe von anderen fachspezifischen Programmen Übungsaufgaben erstellen. So kann eine noch effektivere Lernumgebung geschaffen werden.
 
 ## Installation
 
