@@ -19,6 +19,8 @@ public class RobotInteraction : MonoBehaviour
     public GameObject uiPanel3;
     public GameObject speechBubbleBackground;
     public TMP_Text speechBubbleText;
+    public GameObject infoBubbleBackground;
+    public TMP_Text infoBubbleText;
     public Button askQuestionButton;
     public Button uploadDocumentButton;
     public Button quitButton;
@@ -46,6 +48,7 @@ public class RobotInteraction : MonoBehaviour
         uiPanel2.SetActive(false);
         uiPanel3.SetActive(false);
         speechBubbleBackground.SetActive(false);
+        infoBubbleBackground.SetActive(false);
 
         // Activate UIPanel2 after 6 secs
         StartCoroutine(ActivatePanelAfterDelay(6f));
@@ -174,6 +177,8 @@ public class RobotInteraction : MonoBehaviour
     {
         Debug.Log("Upload document");
 
+        infoBubbleText.text = "Dokument wird hochgeladen";
+        infoBubbleBackground.SetActive(true);
         StartCoroutine(UploadDocumentCoroutine());
     }
 
@@ -214,12 +219,25 @@ public class RobotInteraction : MonoBehaviour
             {
                 Debug.Log(www.downloadHandler.text);
                 Debug.Log(www.error);
+
+                infoBubbleText.text = "Fehler beim Hochladen";
+                StartCoroutine(DeactivateInfoBubbleAfterDelay(3f));
             }
             else
             {
                 Debug.Log("File successfully uploaded");
+
+                // Show InfoBubble for 3 more secs
+                infoBubbleText.text = "Dokument wurde erfolgreich hochgeladen";
+                StartCoroutine(DeactivateInfoBubbleAfterDelay(3f));
             }
         }
+    }
+
+    IEnumerator DeactivateInfoBubbleAfterDelay(float delay)
+    {
+        yield return new WaitForSeconds(delay); // Wait for the specified delay
+        infoBubbleBackground.SetActive(false); // Deactivate InfoBubble
     }
 
     void QuitGame()
