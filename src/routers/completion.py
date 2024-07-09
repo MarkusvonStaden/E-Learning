@@ -3,6 +3,9 @@ from langchain.vectorstores.chroma import Chroma
 from langchain.embeddings import OpenAIEmbeddings
 from langchain.chat_models import ChatOpenAI
 from langchain.prompts import ChatPromptTemplate
+import logging
+
+logging.basicConfig(level=logging.INFO)
 
 router = APIRouter()
 
@@ -42,11 +45,13 @@ def ask(query, chat_history):
     if len(results) == 0 or results[0][1] < 0.7:
         prompt_template = ChatPromptTemplate.from_template("Chat History:\n{chat_history}\n\nUser: {question}\nAssistant:")
         prompt = prompt_template.format(chat_history=chat_history_text, question=query)
+        logging.info(f"Prompt: {prompt}")
         response = chat_model.predict(prompt)
     else:
         context_text = "\n\n---\n\n".join([doc.page_content for doc, _score in results])
         prompt_template = ChatPromptTemplate.from_template(PROMPT_TEMPLATE)
         prompt = prompt_template.format(context=context_text, chat_history=chat_history_text, question=query)
+        logging.info(f"Prompt: {prompt}")
         response = chat_model.predict(prompt)
     return response
 
@@ -59,7 +64,9 @@ async def websocket_endpoint(websocket: WebSocket):
     try:
         while True:
             data = await websocket.receive_text()
+            logging.info(f"Received data: {data}")
             response = ask(data, history)
+            logging.info(f"Sending response: {response}")
             await websocket.send_text(response)
             history.append({"user": data, "assistant": response})
     except WebSocketDisconnect:
